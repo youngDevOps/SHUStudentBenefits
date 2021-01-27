@@ -1,6 +1,6 @@
 # Student Benefits
 
-Free Student Benefits for University Students in the UK.
+Free Student Benefits for Sheffield Hallam University Students in the UK.
 
 <https://education.github.com/pack> - Github have created a joint student pack with some excellent companies/sponsers. Best ones including AWS/Azure Credit and Jetbrains ide
 
